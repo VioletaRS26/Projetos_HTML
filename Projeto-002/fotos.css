@@ -1,0 +1,74 @@
+body{
+    background-color: #FCEBB6;
+    margin: auto;
+
+}
+header{
+    height: 8%;
+    width: 100%;
+    background-color: #ecd282;
+    align-items: center;
+    display: flex;
+    padding: 20px 0;
+}
+.imagem img{
+    width: 40px;
+    height: 30px;
+    margin-left: 50%;
+
+}
+.imagem h6{
+    width: 30px;
+    height: 10px;
+    margin-left: 50%;
+    text-align: center;
+}
+.imagem{
+    justify-items: right;
+    width: 70px;
+    height: 20px;
+    
+}
+.logo{
+    display: flex;
+    width: 100%;
+}
+.textoM1{
+    margin-left: 45%;
+    text-align: center;
+}
+.menu{
+    margin-right: 10% ;
+}
+.menu li{
+    display: inline-block;
+    margin-left: 10px;
+}
+.menu li a{
+    font: size 24px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px 25px;
+}
+.menu li a:hover{
+    background-color: rgba(145, 100, 34, 0.8);
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    margin-left: 10%;
+    border-radius: 20px;
+ 
+}
+h2,h3{
+    background-color: #FCEBB6;
+    padding: 10px 25px;
+    text-align: center;
+
+}
+.ceta img{
+    width: 40px;
+    height: 40px;
+}
